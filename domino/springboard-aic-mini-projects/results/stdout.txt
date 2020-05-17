@@ -1,0 +1,6 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython nbconvert` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter nbconvert` in the future
+[NbConvertApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[NbConvertApp] Converting notebook aic-8_1_5-logistic-regression-mini-project/Mini_Project_Logistic_Regression.ipynb to notebook
+[NbConvertApp] Executing notebook with kernel: python3
+[NbConvertApp] Writing 211046 bytes to aic-8_1_5-logistic-regression-mini-project/Mini_Project_Logistic_Regression.ipynb
