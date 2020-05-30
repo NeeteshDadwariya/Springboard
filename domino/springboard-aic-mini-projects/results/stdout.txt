@@ -1,6 +1,33 @@
-[TerminalIPythonApp] WARNING | Subcommand `ipython nbconvert` is deprecated and will be removed in future versions.
-[TerminalIPythonApp] WARNING | You likely want to use `jupyter nbconvert` in the future
-[NbConvertApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
-[NbConvertApp] Converting notebook aic-8_1_5-logistic-regression-mini-project/Mini_Project_Logistic_Regression.ipynb to notebook
-[NbConvertApp] Executing notebook with kernel: python3
-[NbConvertApp] Writing 211046 bytes to aic-8_1_5-logistic-regression-mini-project/Mini_Project_Logistic_Regression.ipynb
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 04:45:40.013 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[I 04:45:40.022 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 04:45:40.049 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+/usr/local/anaconda/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+[I 04:45:41.538 NotebookApp] jupyter_tensorboard extension loaded.
+[I 04:45:41.541 NotebookApp] Serving notebooks from local directory: /
+[I 04:45:41.541 NotebookApp] 0 active kernels 
+[I 04:45:41.541 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.3:8888/
+[I 04:45:41.541 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 04:45:41.545 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_1_10-api-mini-project%2Fapi_data_wrangling_mini_project.ipynb (10.0.125.128) 1.73ms
+[I 04:45:44.764 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_1_10-api-mini-project%2Fapi_data_wrangling_mini_project.ipynb (10.0.125.128) 1.28ms
+[I 04:45:45.366 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-5_1_10-api-mini-project%2Fapi_data_wrangling_mini_project.ipynb (10.0.125.128) 2.05ms
+[I 04:45:46.212 NotebookApp] 302 GET / (10.0.148.12) 0.47ms
+[I 04:45:52.789 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 04:45:52.791 NotebookApp] Notebook mnt/aic-5_1_10-api-mini-project/api_data_wrangling_mini_project.ipynb is not trusted
+[I 04:45:53.458 NotebookApp] Kernel started: f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:45:54.578 NotebookApp] Adapting to protocol v5.1 for kernel f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:46:04.032 NotebookApp] Kernel restarted: f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:46:06.031 NotebookApp] Adapting to protocol v5.1 for kernel f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:46:28.495 NotebookApp] Kernel restarted: f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:46:30.600 NotebookApp] Adapting to protocol v5.1 for kernel f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:46:46.756 NotebookApp] Kernel restarted: f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:46:48.987 NotebookApp] Adapting to protocol v5.1 for kernel f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:47:21.992 NotebookApp] Kernel restarted: f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:47:24.057 NotebookApp] Adapting to protocol v5.1 for kernel f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:47:53.768 NotebookApp] Saving file at /mnt/aic-5_1_10-api-mini-project/api_data_wrangling_mini_project.ipynb
+[I 04:48:13.557 NotebookApp] Kernel restarted: f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:48:15.939 NotebookApp] Adapting to protocol v5.1 for kernel f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:48:26.380 NotebookApp] Kernel restarted: f715839e-ad73-4bd5-a68b-082039f0109e
+[I 04:48:28.312 NotebookApp] Adapting to protocol v5.1 for kernel f715839e-ad73-4bd5-a68b-082039f0109e
